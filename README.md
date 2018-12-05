@@ -18,6 +18,10 @@ iscompat(), mintype() - se ainda tiver - , e mais os que faltarem
 [ok] tem que arrumar o funcionamento do smpexpr()
 mas certeza so temos da morte
 
+[  ] factor e symtab
+
+[  ] erro global
+
 [  ] adicionar o dicionario de tokens pra arrumar a mostragem de erro dos tokens
 
 se pá é isso.
